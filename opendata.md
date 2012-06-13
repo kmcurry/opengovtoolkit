@@ -1,0 +1,1 @@
+Open government data is a special class of open source that applies specifically to information processed by computers. Open government data includes the application of <strong>standards</a> to data so that data can move freely into and out of applications that run on the web.
